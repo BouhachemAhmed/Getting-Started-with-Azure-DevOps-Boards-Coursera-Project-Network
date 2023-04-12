@@ -1,4 +1,7 @@
 # Getting-Started-with-Azure-DevOps-Boards-Coursera-Project-Network
+The correct answers are below the certificat 
+![Coursera PHF9L4GA2F2X_page-0001](https://user-images.githubusercontent.com/61451186/231320703-bfe658c6-a049-4ebe-8099-ee07a58aaf31.jpg)
+
 
 1.
 Question 1
